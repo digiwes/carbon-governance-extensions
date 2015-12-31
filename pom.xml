@@ -1064,7 +1064,7 @@
         <carbon.governance.version>4.6.1</carbon.governance.version>
         <carbon.governance.imp.pkg.version>[4.6.0, 5.0.0)</carbon.governance.imp.pkg.version>
 
-        <carbon.mediation.version>4.4.2</carbon.mediation.version>
+        <carbon.mediation.version>4.4.10</carbon.mediation.version>
 
         <carbon.governance.ext.version>4.4.10</carbon.governance.ext.version>
         <carbon.governance.ext.imp.pkg.version>[4.4.0, 5.0.0)</carbon.governance.ext.imp.pkg.version>
@@ -1076,7 +1076,7 @@
         <axis2.version>1.6.1-wso2v15</axis2.version>
         <orbit.version.axis2>1.6.1.wso2v11</orbit.version.axis2>
         <axis2-transports.version>1.1.0-wso2v13</axis2-transports.version>
-        <axis2.osgi.version.range>[1.6.1.wso2v12, 1.7.0)</axis2.osgi.version.range>
+        <axis2.osgi.version.range>[1.6.1.wso2v11, 1.7.0)</axis2.osgi.version.range>
         <orbit.version.wsdl4j>1.6.2.wso2v2</orbit.version.wsdl4j>
         <orbit.version.neethi>2.0.4.wso2v4</orbit.version.neethi>
         <rampart.wso2.version>1.6.1.wso2v16</rampart.wso2.version>
